@@ -1,5 +1,5 @@
-[![Release](https://jitpack.io/v/liyuzhao/camera.svg)]
-(https://jitpack.io/liyuzhao/camera)
+[![](https://jitpack.io/v/liyuzhao/camera.svg)](https://jitpack.io/#liyuzhao/camera)
+
 
 #### Step 1. 
 Add it in your root build.gradle at the end of repositories:
@@ -17,7 +17,8 @@ Add it in your root build.gradle at the end of repositories:
 Add the dependency
 
 ```
-dependencies {
-		implementation 'com.github.liyuzhao:camera:v1.0.1'
-}
+	dependencies {
+	        implementation 'com.github.liyuzhao:camera:v1.0.1'
+	}
+
 ```
